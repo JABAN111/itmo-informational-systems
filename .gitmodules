@@ -1,3 +1,12 @@
 [submodule "itmo-informational-systems-course-work"]
 	path = itmo-informational-systems-course-work
 	url = https://github.com/JABAN111/itmo-informational-systems-course-work.git
+[submodule "informational-system-third-lab"]
+	path = informational-system-third-lab
+	url = https://github.com/JABAN111/informational-system-third-lab.git
+[submodule "informational-system-second-lab"]
+	path = informational-system-second-lab
+	url = https://github.com/JABAN111/informational-system-second-lab.git
+[submodule "informational-system-first-lab"]
+	path = informational-system-first-lab
+	url = https://github.com/JABAN111/informational-system-first-lab.git
